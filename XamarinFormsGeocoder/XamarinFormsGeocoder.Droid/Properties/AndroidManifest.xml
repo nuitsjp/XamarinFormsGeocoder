@@ -9,6 +9,6 @@
 	<uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
 	<uses-permission android:name="android.permission.INTERNET" />
 	<application android:label="XamarinFormsGeocoder.Droid">
-    <meta-data android:name="com.google.android.geo.API_KEY" android:value="AIzaSyAwMDtQ-1am4YozHF2L7N950Z7IRMY4aco" />
+    <meta-data android:name="com.google.android.geo.API_KEY" android:value="AIzaSyAxXxp27BdFvkrfYNSqfziWeg8e2jxPBJ4" />
   </application>
 </manifest>
